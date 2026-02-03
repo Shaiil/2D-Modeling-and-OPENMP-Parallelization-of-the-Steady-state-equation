@@ -1,0 +1,1 @@
+# 2D-Modeling-and-OPENMP-Parallelization-of-the-Steady-state-equation
